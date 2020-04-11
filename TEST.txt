@@ -3,3 +3,4 @@ Git is free software.
 添加了一行
 
 git 是管理修改，不是管理文件
+Git tracks changes of files.
