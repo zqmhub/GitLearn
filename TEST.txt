@@ -5,3 +5,4 @@ Git is free software.
 git 是管理修改，不是管理文件
 Git tracks changes of files.
 关联远程仓库
+ssh方式提交
